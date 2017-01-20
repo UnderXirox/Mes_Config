@@ -1,4 +1,4 @@
-#!/usr/bin/env pytohn
+#!/usr/bin/env python
 
 # fonction de calcule des hash
 
